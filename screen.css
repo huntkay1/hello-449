@@ -25,6 +25,8 @@ h1{
 #comp-pic{
     width: 800px;
     height: 250px;
+    object-fit: cover;
+    object-position: bottom;
     border-radius: 15px;
 }
 
